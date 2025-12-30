@@ -1,0 +1,7 @@
+{
+  "name": "Espaço ROCHA - Landing Page Luxuosa",
+  "description": "Uma landing page sofisticada e minimalista para o Espaço ROCHA Festas e Eventos, focada em reservas para o primeiro semestre de 2026.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
